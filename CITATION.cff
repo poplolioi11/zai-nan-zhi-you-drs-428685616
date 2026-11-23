@@ -1,0 +1,36 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "災難之由（DRS 428685616） / Zai nan zhi you: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/zai-nan-zhi-you-drs-428685616/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/zai-nan-zhi-you-drs-428685616",
+  "abstract": "Zai nan zhi you (災難之由) is a Chinese-language woodblock-printed broadside. The catalog records it as printed in China, with an estimated date between 1875 and 1911. The exact date, place of printing, publisher, and author are unknown. Fixed image p001 is the transcription source. It shows the printed title 災難之由 and the vertical text read from right to left. Image p002 is a comparison scan of the same text. The essay opens by defining Shangdi's love for humankind through the analogy of a father's love for his children (\"上帝一大父也\", \"父於子無不愛\", \"上帝於人亦無不愛\"), then lists calamities such as war, epidemics, droughts, and floods. In its middle section it criticizes disorder in human relationships and society. The text asserts that \"when Heaven is angered, calamities descend\" (天怒而災害臨), yet also that Shangdi greatly loves humankind and cannot bear to send down calamities hastily. The essay thus interprets disasters within a framework of divine anger, love, and admonition, and urges people to repent and reform. It closes by continuing its call for self-examination and self-cultivation, ending with a plea that thoughtful readers reflect carefully (吾願有心者其思之其細思之).\n\nThis dataset uses 2 fixed images from Harvard-Yenching Library DRS 428685616. It transcribes the main text from 1 page and documents the comparison image. The AI-reviewed JSON, TXT and TEI transcription retains 12 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "災難之由 / Zai nan zhi you",
+    "木刻本 / Woodblock-printed text",
+    "華文論說 / Chinese discursive essay",
+    "中國 / China",
+    "直排文本 / Vertical text",
+    "轉錄 / Transcription",
+    "上帝 / Shangdi",
+    "父子之愛 / Paternal love",
+    "天怒 / Heavenly anger",
+    "災害 / Calamities",
+    "兵戈 / Warfare",
+    "瘟疫 / Epidemics",
+    "旱乾水溢 / Droughts and floods",
+    "人倫 / Human relationships",
+    "悔過遷善 / Repentance and moral reform",
+    "自省 / Self-examination"
+  ]
+}
