@@ -32,5 +32,13 @@
     "人倫 / Human relationships",
     "悔過遷善 / Repentance and moral reform",
     "自省 / Self-examination"
+  ],
+  "doi": "10.5281/zenodo.24455236",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24455235",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
